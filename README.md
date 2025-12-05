@@ -4,11 +4,10 @@
 
 <p align="left">Olá, meu nome é Marco Antonio Dalessio, estudo no Senai Anchieta como Desenvolvedor de sistemas, Tenho como principal gosto a área de Automações, Dados e BackEnd, No Senai, Estudamos princípios como lógica de programação, Banco de dados, Design, Projetos e muito mais.<br>Tenho contato com a programação a menos de 1 ano, e ja me interresso profundamente em todos tipos de assunto da área, por mim, eu faria tudo que envolva tecnologia e programação, cada vez mais venho bscando novos aprendizados, como: AWS, N8N, JS e busco como principal foco no futuro trabalhar com integração de IAs generativas em minhas aplicações.<br>Aqui no meu GitHub, encontrarão meus repositórios com alguns dos meu projetos, tanto do Senai, Cursos por fora e Projetos Pessoais.</p>
 
-###
 
-<h3 align="left">Com o que tenho experiência?</h3>
 
-###
+<h1 align="left">Com o que tenho experiência?</h1>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -52,11 +51,9 @@
 
 <p align="left">Tenho conhecimentos intermediários em:<br>GitHub<br>Git<br>Java<br>Python (MatPlot, Pandas, Seaborn, PyAutoGui e MySQL conector)<br>MySQL<br>HTML<br>CSS<br>Linux<br>Windows<br>Notion</p>
 
-###
+# O que mais desejo aprender?
 
-<p align="left">O que mais desejo aprender?</p>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
