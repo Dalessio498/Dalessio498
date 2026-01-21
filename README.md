@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Marco Antonio Dalessio, estudo no Senai Anchieta como Desenvolvedor de sistemas, Tenho como principal gosto a área de Automações, Dados e BackEnd, No Senai, Estudamos princípios como lógica de programação, Banco de dados, Design, Projetos e muito mais.<br>Tenho contato com a programação a menos de 1 ano, e ja me interresso profundamente em todos tipos de assunto da área, por mim, eu faria tudo que envolva tecnologia e programação, cada vez mais venho bscando novos aprendizados, como: AWS, N8N, JS e busco como principal foco no futuro trabalhar com integração de IAs generativas em minhas aplicações.<br>Aqui no meu GitHub, encontrarão meus repositórios com alguns dos meu projetos, tanto do Senai, Cursos por fora e Projetos Pessoais.</p>
+<p align="left">Olá, meu nome é Marco Antonio Dalessio, estudo no Senai Anchieta como Desenvolvedor de sistemas, Tenho como principal gosto a área de Automações, Dados e FrontEnd, No Senai, Estudamos princípios como lógica de programação, Banco de dados, Design, Projetos e muito mais.<br>Tenho contato com a programação a menos de 1 ano, e ja me interresso profundamente em todos tipos de assunto da área, por mim, eu faria tudo que envolva tecnologia e programação, cada vez mais venho bscando novos aprendizados, como: AWS, N8N, JS e busco como principal foco no futuro trabalhar com integração de IAs generativas em minhas aplicações.<br>Aqui no meu GitHub, encontrarão meus repositórios com alguns dos meu projetos, tanto do Senai, Cursos por fora e Projetos Pessoais.</p>
 
 
 
