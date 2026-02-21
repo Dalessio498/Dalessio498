@@ -49,11 +49,11 @@
 
 ###
 
-<p align="left">Tenho conhecimentos básicos em:<br>Spring Boot<br>Azure<br>React.js</p>
+<h2 align="left">Tenho conhecimentos básicos em:<br>Spring Boot<br>Azure<br>React.js</p>
 
 ###
 
-<p align="left">Tenho conhecimentos intermediários em:<br>GitHub<br>Git<br>Java<br>Python (MatPlot, Pandas, Seaborn, PyAutoGui e MySQL conector)<br>MySQL<br>HTML<br>CSS<br>JavaScript<br>GSAP<br>Linux<br>Windows<br>Notion</p>
+<h2 align="left">Tenho conhecimentos intermediários em:<br>GitHub<br>Git<br>Java<br>Python (MatPlot, Pandas, Seaborn, PyAutoGui e MySQL conector)<br>MySQL<br>HTML<br>CSS<br>JavaScript<br>GSAP<br>Linux<br>Windows<br>Notion</p>
 
 # O que mais desejo aprender?
 
