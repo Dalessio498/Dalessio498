@@ -12,6 +12,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -52,7 +53,7 @@
 <h2 align="left">Tenho conhecimentos básicos em:</h2>
 
 <p>
-<br>Spring Boot<br>Azure<br>React.js</p>
+<br>Spring Boot<br>Azure<br>React.js<br>Kotlin</p>
 </p>
 
 ###
