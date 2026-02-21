@@ -49,7 +49,11 @@
 
 ###
 
-<h2 align="left">Tenho conhecimentos básicos em:<br>Spring Boot<br>Azure<br>React.js</p>
+<h2 align="left">Tenho conhecimentos básicos em:</h2>
+
+<p>
+<br>Spring Boot<br>Azure<br>React.js</p>
+</p>
 
 ###
 
