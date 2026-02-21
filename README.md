@@ -32,7 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  
+  <img src="https://cdn.simpleicons.org/gsap/88CE02" height="35" alt="GSAP logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
@@ -48,11 +49,11 @@
 
 ###
 
-<p align="left">Tenho conhecimentos básicos em:<br>Spring Boot<br>JavaScript<br>Azure<br>React.js</p>
+<p align="left">Tenho conhecimentos básicos em:<br>Spring Boot<br>Azure<br>React.js</p>
 
 ###
 
-<p align="left">Tenho conhecimentos intermediários em:<br>GitHub<br>Git<br>Java<br>Python (MatPlot, Pandas, Seaborn, PyAutoGui e MySQL conector)<br>MySQL<br>HTML<br>CSS<br>Linux<br>Windows<br>Notion</p>
+<p align="left">Tenho conhecimentos intermediários em:<br>GitHub<br>Git<br>Java<br>Python (MatPlot, Pandas, Seaborn, PyAutoGui e MySQL conector)<br>MySQL<br>HTML<br>CSS<br>JavaScript<br>GSAP<br>Linux<br>Windows<br>Notion</p>
 
 # O que mais desejo aprender?
 
@@ -61,8 +62,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
