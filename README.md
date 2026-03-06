@@ -5,7 +5,7 @@ Meu nome é **Marco Antonio Dalessio**, sou estudante de **Desenvolvimento de Si
 🚀 **Meus principais focos e interesses:**
 * **Áreas de atuação:** Full Stack e freelances de Web Design.
 * **Estudos no Senai:** Lógica de programação, Banco de Dados, Design e Projetos.
-* **Objetivos atuais:** Aprofundar meus conhecimentos em JavaScript, explorar AWS e N8N.
+* **Objetivos atuais:** Aprofundar meus conhecimentos em JavaScript, explorar AZURE e REACT.
 * **Visão de futuro:** Trabalhar com a integração de **IAs Generativas** nas minhas aplicações.
 
 Aqui no meu GitHub, você encontrará meus repositórios com projetos do Senai, cursos extracurriculares e projetos pessoais. Fique à vontade para explorar!
