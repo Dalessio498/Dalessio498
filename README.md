@@ -3,7 +3,7 @@
 Meu nome é **Marco Antonio Dalessio**, sou estudante de **Desenvolvimento de Sistemas** no Senai Anchieta. Tenho contato com a programação há menos de 1 ano, mas já sou profundamente apaixonado pela área tecnológica e busco novos aprendizados todos os dias. Por mim, eu faria tudo que envolvesse tecnologia!
 
 🚀 **Meus principais focos e interesses:**
-* **Áreas de atuação:** Automação, Dados e Front-End.
+* **Áreas de atuação:** Full Stack e freelances de Web Design.
 * **Estudos no Senai:** Lógica de programação, Banco de Dados, Design e Projetos.
 * **Objetivos atuais:** Aprofundar meus conhecimentos em JavaScript, explorar AWS e N8N.
 * **Visão de futuro:** Trabalhar com a integração de **IAs Generativas** nas minhas aplicações.
